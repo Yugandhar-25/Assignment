@@ -2,7 +2,7 @@
 
 <b>A Simple Web App</b>
 
-Techcnologies : 
+Technologies : 
 
 
 -Yugandhar Ghatge
