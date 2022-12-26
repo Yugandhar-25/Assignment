@@ -1,0 +1,2 @@
+All the profile images uploaded by user will be stored here. <br>
+By default, the defalt image gets shown if user doesn't upload any image.
