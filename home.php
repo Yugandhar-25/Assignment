@@ -39,7 +39,7 @@ if(isset($_GET['logout'])){
             $fetch = mysqli_fetch_assoc($select);
          }
          if($fetch['image'] == ''){
-            echo '<img src="images/default-avatar.png">';
+            echo '<img src="uploaded_img/default-avatar.png">';
          }else{
             echo '<img src="uploaded_img/'.$fetch['image'].'">';
          }
